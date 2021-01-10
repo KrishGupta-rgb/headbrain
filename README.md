@@ -1,2 +1,2 @@
 # headbrain
-logic regression
+logic regression with r square value 
